@@ -7,3 +7,5 @@ Here is the text decrypted from the image:
 
 Experiment 3: Create a directory Vehicle. In Vehicle create four directories with names Fourwheelers, Threewheelers, Twowheelers. In Fourwheelers create directories Bus, Car, Truck. In Threewheelers create directories Auto. In Twowheelers create directories Cycle and Scooty. 
 In the Car directory, create files: Carbrand.txt, Busbrand.txt, Truckbrand.txt, Autocolor.txt, Cyclebrand.txt. Write 2 lines in each file. Move each file to their respective directories. Also, delete the Cycle directory finally.
+
+Experiment 4: Learning the use of chmod command and vi text editor.
