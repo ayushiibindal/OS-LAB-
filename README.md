@@ -9,3 +9,9 @@ Experiment 3: Create a directory Vehicle. In Vehicle create four directories wit
 In the Car directory, create files: Carbrand.txt, Busbrand.txt, Truckbrand.txt, Autocolor.txt, Cyclebrand.txt. Write 2 lines in each file. Move each file to their respective directories. Also, delete the Cycle directory finally.
 
 Experiment 4: Learning the use of chmod command and vi text editor.
+
+Experiment 5: If-Else statements in bash.
+
+Experiment 6: For Loop in Shell Programming.
+
+Experiment 7: Building C Project using makefile.
