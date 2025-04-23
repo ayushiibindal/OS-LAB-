@@ -1,4 +1,9 @@
-This repository contains practical experiments conducted as part of the Operating Systems Lab. Each file represents a specific experiment, demonstrating key concepts and algorithms in operating systems.
+# Operating-Systems-Lab
+This repository contains OS Lab experiments covering Linux commands, shell scripting, file operations, and process control. 
+Topics include directory management, chmod, vi editor, loops, conditionals, and Makefile-based project compilation.
+This is the hands-on guide to understanding core OS concepts.
+
+List of Experiments:
 
 Experiment 1: Basic Linux Commands This experiment covers essential Linux commands, including: Listing directory contents (ls) Viewing file content (cat) Printing the current directory (pwd) Displaying the current user name (whoami) Clearing the terminal (clear) Creating and deleting directories (mkdir, rmdir) Navigating directories (cd, cd ..) Creating, appending, copying, renaming, and deleting files (cat, cp, mv, rm).
 
@@ -15,3 +20,14 @@ Experiment 5: If-Else statements in bash.
 Experiment 6: For Loop in Shell Programming.
 
 Experiment 7: Building C Project using makefile.
+
+EXP 08: Basic Programs in Shell Scripting.
+
+EXP 09: To study and implement the read(), write(), and fork() system calls in Unix/Linux operating systems.
+
+EXP 10:Program to create orphan process and zombie process.
+
+EXP 11:Program to create threads in Linux
+
+EXP 12:Write a program for Process Synchronization using mutex lock.
+
